@@ -2,6 +2,13 @@
 
 # Understanding Funding Disparities and Student Outcomes in Tacoma Public Schools
 
+# Abstract
+This study explores the impact of funding disparities on student outcomes within Tacoma Public Schools. By analyzing quantitative data, including education equity scores and student performance metrics (e.g., test scores, graduation rates, and post-secondary enrollment rates), alongside qualitative insights from interviews and community forums, the research highlights significant inequities between schools in lower-income and higher-income neighborhoods.
+
+Key findings indicate that higher-funded schools consistently achieve better outcomes in English assessments, graduation rates, and post-secondary enrollment. However, no significant relationship was observed between funding and math performance, warranting further investigation. Qualitative data provided valuable context, emphasizing the role of facilities, extracurricular opportunities, and demographic factors in shaping educational experiences.
+
+This study underscores the urgent need to address systemic funding disparities to ensure equitable educational opportunities for all students. Future research should explore broader qualitative perspectives and develop actionable solutions to mitigate these inequities.
+
 # Project Overview
 This final project examines the relationship between funding disparities across high schools in the Tacoma Public School District and student outcomes. I will analyze student test scores, graduation rates, and college enrollment rates to determine if such a relationship exists. By incorporating both quantitative and qualitative data, I aim to gain a deeper understanding and uncover the truth behind my hypothesis: that high schools within the Tacoma Public School District with higher funding levels achieve better student outcomes than those with lower funding levels.
 
@@ -58,6 +65,12 @@ Propose actionable solutions to address disparities, focusing on policies and pr
 
 # Acknowledgments
 This project was inspired by a passion for educational equity and a commitment to advocating for all students. Special thanks to the interview participant for sharing their valuable insights and to Tacoma Open Data for providing accessible datasets.
+
+# Dataset Licenses:
+- [Tacoma Open Data](https://data.cityoftacoma.org/datasets/tacoma::equity-index-2020-tacoma-data/about): The datasets used in this research are publicly available through Tacoma Open Data and are subject to their terms and conditions. Users must comply with the specific licensing terms outlined on the Tacoma Open Data website.
+- [Tacoma Public Schools Data](https://www.tacomaschools.org/about/strategic-plan/goal1): This dataset is publicly accessible under the Tacoma Public Schools District’s website policy and is intended for educational and non-commercial use.
+- Interview and Reddit Insights: Qualitative data collected through interviews and Reddit forums is used with appropriate permissions where applicable and is not to be redistributed or used outside the scope of this project.
+- License: MIT License
 
 # References
 **Citations used for background research>**
